@@ -1,0 +1,5 @@
+<h1>Intro App</h1>
+<p>Your task is to modify ONLY the "app.stache" and "app.js" files in order to wire up the required functionality. You will have to use Google to learn what you do not know about CanJS.</p>
+<p>The user is expected to enter a contact's information into the text boxes and then click the "Add Contact" button, which should append the contact to the table and clear the text boxes.</p>
+<p>The contents of the table already provided are just an example of what you should see.</p>
+<p>Do not use jQuery or manually manipulate the DOM in any way.</p>

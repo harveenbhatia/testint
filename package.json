@@ -1,0 +1,21 @@
+{
+  "name": "IntroApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "can": "^2.3.0-pre.0",
+    "jquery": "^2.1.4",
+    "steal": "^0.10.1",
+    "steal-tools": "^0.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "system": {
+
+  }
+}

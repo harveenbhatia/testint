@@ -1,0 +1,13 @@
+*.conf
+*.log
+*.bak
+*.swp
+node_modules/
+node/
+log/
+production.*
+production-*
+ui2.html
+.DS_Store
+*.orig
+*.idea
