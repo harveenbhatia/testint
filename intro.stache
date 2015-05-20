@@ -1,5 +1,12 @@
 <h1>Intro App</h1>
-<p>Your task is to modify ONLY the "app.stache" and "app.js" files in order to wire up the required functionality. You will have to use Google to learn what you do not know about CanJS.</p>
+<p>Your task is to modify ONLY the <b>"app.stache"</b> and <b>"app.js"</b> files in order to wire up the required functionality. You will have to use Google to learn what you do not know about CanJS.</p>
 <p>The user is expected to enter a contact's information into the text boxes and then click the "Add Contact" button, which should append the contact to the table and clear the text boxes.</p>
 <p>The contents of the table already provided are just an example of what you should see.</p>
 <p>Do not use jQuery or manually manipulate the DOM in any way.</p>
+
+<br>
+<h3>Hint</h3>
+<a href='http://canjs.com/docs/can.Component.html' >Can Component</a><br>
+<a href='http://canjs.com/docs/can.Map.html' >Can Map</a><br>
+<a href='http://canjs.com/docs/can.List.html' >Can List</a><br>
+<a href='http://canjs.com/docs/can.stache.html' >Can Stache</a><br>
