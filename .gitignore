@@ -2,7 +2,6 @@
 *.log
 *.bak
 *.swp
-node_modules/
 node/
 log/
 production.*
